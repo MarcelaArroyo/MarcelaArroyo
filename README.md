@@ -1,5 +1,5 @@
 <h1>
-   Olá, muito prazer! Sou a Marcela, seja bem-vindo(a) ao meu
+   Olá!!! Sou a Marcela, seja bem-vindo(a) ao meu
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 </h1>
 
