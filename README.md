@@ -28,6 +28,9 @@
   <a href="https://pt-br.reactjs.org/docs/getting-started.html">
   <img align="center" alt="icon-react" heigth="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
+   <a href="https://nodejs.org/en/">
+  <img align="center" alt="icon-nodejs" heigth="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  </a>
   <a href="https://dev.mysql.com/doc/">
   <img align="center" alt="icon-mysql" heigth="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </a>
