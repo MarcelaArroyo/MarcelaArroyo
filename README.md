@@ -25,6 +25,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img align="center" alt="icon-js" heigth="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </a>
+  <a href="https://www.typescriptlang.org/docs/">
+    <img align="center" alt="icon-ts" heigth="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  </a>
   <a href="https://pt-br.reactjs.org/docs/getting-started.html">
   <img align="center" alt="icon-react" heigth="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </a>
