@@ -3,7 +3,7 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 </h1>
 
-- 👨🏻‍💻 Sou estudante de desenvolvimento web na Trybe
+- 👨🏻‍💻 Software Engineer I na XP Inc
 - 📫 Email: malvesarroyo@gmail.com
 - 😄 Pronomes: Ela/dela
 ##
